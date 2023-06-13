@@ -1,1 +1,1 @@
-### Tailwindcss + React's demo
+### Tailwindcss + daisyui + React's demo
